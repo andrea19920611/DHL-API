@@ -45,6 +45,6 @@ class Request extends Base
             'type' => 'ServiceHeader',
             'required' => false,
             'subobject' => true,
-        ), 
+        ),
     );
 }
